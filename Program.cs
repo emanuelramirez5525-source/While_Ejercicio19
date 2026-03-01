@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Con
+﻿//Mostrar la tabla de multiplicar de un número ingresado.
+
+
